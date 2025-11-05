@@ -28,23 +28,27 @@
  <hr/>
 
  
-<div align="center" style="font-family:'JetBrains Mono'; color:#38BDAE">
+<!-- <div align="center" style="font-family:'JetBrains Mono'; color:#38BDAE">
      <h3>WEB DEVELOPMENT</h3>
+</div> -->
+<div align="center" style="font-family:'JetBrains Mono'; color:#38BDAE">
+     <h3>⚒️ Languages-Frameworks-Tools ⚒️</h3>
 </div>
+<br>
  
-<h2 align="center" style="font-family:'jetBrains Mono';color:#38BDAE">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<!-- <h2 align="center" style="font-family:'jetBrains Mono';color:#38BDAE">⚒️ Languages-Frameworks-Tools ⚒️</h2> -->
 
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,javascript,ts,react,nextjs,express" /><br><br>
-    <img src="https://skillicons.dev/icons?i=MongoDB,npm,postman,vite,webpack,git,docker,vercel,netlify" />
+    <img src="https://skillicons.dev/icons?i=javascript,react,tailwind,nextjs,ts,bun,pnpm" /><br><br>
+    <img src="https://skillicons.dev/icons?i=mongodb,postman,vite,webpack,git,docker,vercel,netlify" />
 </div>
 
-<h3 align="center">Other Skills</h3>
+<!-- <h3 align="center">Other Skills</h3>
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=c,python,arduino,github,linux,vscode" /><br><br>
     <img src="https://skillicons.dev/icons?i=raspberrypi,matlab,qt,stackoverflow,tensorflow" /><br><br>
-</div>
+</div> -->
 
 
 

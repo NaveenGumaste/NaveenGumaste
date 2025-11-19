@@ -9,75 +9,72 @@
 
 <div align="center" style="font-family:'JetBrains Mono';color:MediumSlateBlue" >
  
- <!-- 🔭 I’m currently studying in **Final Year**-->
- 
- 🌱 And working on **Frontend Web Development**
+ ⚒️ working on **Frontend Web Development**
  
  </div>
  
-<div align="center" > 
+<div align="center">
   <a href="mailto:ngumaste03@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
+
   <a href="https://linkedin.com/in/naveenkumar-gumaste" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+
+  <a href="https://x.com/Z0D404" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+
+  <a href="https://naveengumaste.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-6A5ACD?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 </div>
 
  <hr/>
 
- 
-<!-- <div align="center" style="font-family:'JetBrains Mono'; color:#38BDAE">
-     <h3>WEB DEVELOPMENT</h3>
-</div> -->
 <div align="center" style="font-family:'JetBrains Mono'; color:#38BDAE">
-     <h3>⚒️ Languages-Frameworks-Tools ⚒️</h3>
+     <h3>⚙️ Languages-Frameworks-Tools </h3>
 </div>
 <br>
- 
-<!-- <h2 align="center" style="font-family:'jetBrains Mono';color:#38BDAE">⚒️ Languages-Frameworks-Tools ⚒️</h2> -->
 
 <div align="center">
     <img src="https://skillicons.dev/icons?i=javascript,react,tailwind,nextjs,ts,bun,pnpm" /><br><br>
     <img src="https://skillicons.dev/icons?i=mongodb,postman,vite,webpack,git,docker,vercel,netlify" />
 </div>
 
-<!-- <h3 align="center">Other Skills</h3>
-<br/>
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=c,python,arduino,github,linux,vscode" /><br><br>
-    <img src="https://skillicons.dev/icons?i=raspberrypi,matlab,qt,stackoverflow,tensorflow" /><br><br>
-</div> -->
-
-
-
 <br/>
 <hr/>
- 
-[![Activity graph](https://github-readme-activity-graph.vercel.app/graph?username=naveenkumargumaste&bg_color=0D1117&color=70a4fc&line=584873&point=38bdae&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-                   
-<hr/>
-
-<h2 align="center" style="font-family:'JetBrains Mono';color:#38BDAE" >⚡ Stats ⚡</h2>
-<br>
-<div align=center>
- <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=Naveenkumargumaste&count_private=true&show_icons=true&theme=tokyonight&rank_icon=github&border_radius=10" alt="readme stats" /><br><img width=390 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=Naveenkumargumaste&hide=HTML&langs_count=8&layout=compact&theme=tokyonight&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+<h2 align="center" style="font-family:'JetBrains Mono';color:#38BDAE" >⚡ Stats </h2>
+<div align="center" style="display: flex; justify-content: center; align-items: center;">
+  <img src="https://github-readme-stats.vercel.app/api?username=NaveenGumaste&theme=catppuccin_mocha&hide_border=true&include_all_commits=true&count_private=true" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=NaveenGumaste&theme=catppuccin_mocha&hide_border=true" />
 </div>
 
- <!--<img width=390 src="https://github-readme-streak-stats-naveen.vercel.app?user=Naveenkumargumaste&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&border=EB5454" alt="streak stats"/> -->
+<div align="center" style="display: flex; justify-content: center; align-items: center; height: 100%;">
 
-<br/><br/>
-<hr/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NaveenGumaste&theme=catppuccin_mocha&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
 
-<h2 align="center" style="font-family:'JetBrains Mono';color:#38BDAE" >⚡My Spotify Playlist ⚡</h2>
+</div>
+
+<hr>
+
+<h2 align="center" style="font-family:'JetBrains Mono';color:#38BDAE" >💯Top Contributed Repo </h2>
+<div align="center" style="display: flex; justify-content: center; align-items: center; height: 100%;">
+  <img src="https://github-contributor-stats.vercel.app/api?username=NaveenGumaste&limit=5&theme=catppuccin_mocha&combine_all_yearly_contributions=true" />
+</div>
+
+ <hr/>
+
+<h2 align="center" style="font-family:'JetBrains Mono';color:#38BDAE" >🎵My Spotify Playlist </h2>
 <br>
 <p align="center">
   <img src="https://spotify-recently-played-readme.vercel.app/api?user=31posslgzomhnuu3qvgbzqgfx4vq&count=5">
 </p>
 <hr/>
 
-<h2 align="center" style="font-family:'JetBrains Mono';color:#38BDAE" >📕 Latest Blog Posts </h2>
+
+<h2 align="center" style="font-family:'JetBrains Mono';color:#38BDAE" >📑 Latest Blog Posts </h2>
 
 <div align="left" style="font-family:'JetBrains Mono';color:#38BDAE">
 
@@ -85,9 +82,17 @@
 - [Only Vs Code Extension You Need 2025](https://medium.com/@Cynos/only-vs-code-extension-you-need-2022-a8225d1e6354)
 </div>
 <hr/>
+
+
+<h2 align="center" style="font-family:'JetBrains Mono';color:#38BDAE" >✍️ Random Dev Quote</h2>
+<br>
+<div align="center" style="display: flex; justify-content: center; align-items: center; height: 100%;">
+
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</div>
+
 <h3 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&color=A467F7&lines=Thanks+for+visiting!+✌️">
 </h3>
-
 <br/>
 

@@ -84,7 +84,7 @@
 <hr/>
 
 
-<h2 align="center" style="font-family:'JetBrains Mono';color:#38BDAE" >✍️ Random Dev Quote</h2>
+<h2 align="center" style="font-family:'JetBrains Mono';color:#38BDAE" >✍️ Quote of the Day</h2>
 <br>
 <div align="center" style="display: flex; justify-content: center; align-items: center; height: 100%;">
 

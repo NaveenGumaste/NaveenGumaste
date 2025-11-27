@@ -47,7 +47,7 @@
 <hr/>
 <h2 align="center" style="font-family:'JetBrains Mono';color:#38BDAE" >⚡ Stats </h2>
 <div align="center" style="display: flex; justify-content: center; align-items: center;">
-  <img src="https://github-readme-stats.vercel.app/api?username=NaveenGumaste&theme=catppuccin_mocha&hide_border=true&include_all_commits=true&count_private=false" />
+  <img src="https://github-readme-stats.vercel.app/api?username=NaveenGumaste&theme=catppuccin_mocha&hide_border=true&include_all_commits=true" />
   <img src="https://nirzak-streak-stats.vercel.app/?user=NaveenGumaste&theme=catppuccin_mocha&hide_border=true" />
 </div>
 

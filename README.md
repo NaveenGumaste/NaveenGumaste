@@ -46,10 +46,11 @@
 <br/>
 <hr/>
 <h2 align="center" style="font-family:'JetBrains Mono';color:#38BDAE" >⚡ Stats </h2>
-<div align="center" style="display: flex; justify-content: center; align-items: center;">
-  <!-- <img src="https://github-readme-stats.vercel.app/api?username=NaveenGumaste&theme=catppuccin_mocha&hide_border=true&include_all_commits=true" /> -->
-  <img src="https://nirzak-streak-stats.vercel.app/?user=NaveenGumaste&theme=catppuccin_mocha&hide_border=true" />
-</div>
+<p align="center">
+  <img width="420" src="https://nirzak-streak-stats.vercel.app/?user=NaveenGumaste&theme=catppuccin_mocha&hide_border=true" alt="GitHub Streak" />
+  &nbsp;
+  <img width="420" src="https://github-readme-stats.vercel.app/api?username=NaveenGumaste&theme=catppuccin_mocha&hide_border=true&show_icons=true&locale=en" alt="GitHub Stats" />
+</p>
 
 <!-- <div align="center" style="display: flex; justify-content: center; align-items: center; height: 100%;">
 
@@ -57,11 +58,12 @@
 
 </div> -->
 
-<hr>
+<!-- <hr>
 
 <h2 align="center" style="font-family:'JetBrains Mono';color:#38BDAE" >💯Top Contributed Repo </h2>
 <div align="center" style="display: flex; justify-content: center; align-items: center; height: 100%;">
-  <img src="https://github-contributor-stats.vercel.app/api?username=NaveenGumaste&limit=5&theme=catppuccin_mocha&combine_all_yearly_contributions=true" />
+  <!-- <img src="https://github-contributor-stats.vercel.app/api?username=NaveenGumaste&limit=5&theme=catppuccin_mocha&combine_all_yearly_contributions=true" /> -->
+
 </div>
 
  <hr/>
@@ -73,7 +75,6 @@
 </p>
 <hr/>
 
-
 <h2 align="center" style="font-family:'JetBrains Mono';color:#38BDAE" >📑 Latest Blog Posts </h2>
 
 <div align="left" style="font-family:'JetBrains Mono';color:#38BDAE">
@@ -82,7 +83,6 @@
 - [Only Vs Code Extension You Need 2025](https://medium.com/@Cynos/only-vs-code-extension-you-need-2022-a8225d1e6354)
 </div>
 <hr/>
-
 
 <h2 align="center" style="font-family:'JetBrains Mono';color:#38BDAE" >✍️ Quote of the Day</h2>
 <br>
@@ -95,4 +95,3 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&color=A467F7&lines=Thanks+for+visiting!+✌️">
 </h3>
 <br/>
-

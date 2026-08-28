@@ -71,7 +71,9 @@
 <h2 align="center" style="font-family:'JetBrains Mono';color:#38BDAE" >🎵My Spotify Playlist </h2>
 <br>
 <p align="center">
-  <img src="[https://spotify-recently-played-readme.vercel.app/api?user=31posslgzomhnuu3qvgbzqgfx4vq&count=5](https://spotify-recently-played.jeffreyca.workers.dev/svg?user=31posslgzomhnuu3qvgbzqgfx4vq&theme=catppuccin&count=4&width=600&radius=19&unique=1)">
+ <a href="https://open.spotify.com/user/31posslgzomhnuu3qvgbzqgfx4vq">
+  <img src="https://spotify-recently-played.jeffreyca.workers.dev/svg?user=31posslgzomhnuu3qvgbzqgfx4vq&amp;theme=catppuccin&amp;count=4&amp;width=600&amp;radius=19&amp;unique=1" alt="Spotify recently played" width="600" />
+</a>
 </p>
 <hr/>
 

@@ -1,0 +1,284 @@
+{
+  "website": "https://naveengumaste.me",
+  "researched_on": "2026-11-10",
+  "default_mode": "creative",
+  "default_theme": "dark",
+  "evidence_assets": {
+    "website.html": {
+      "url": "https://naveengumaste.me/",
+      "snapshot": ".preview/brand-research/website.html",
+      "sha256": "a008124009e02929252d253b3e3521bb9d573eeb8bde9c68c66b1ce330d99d3d"
+    },
+    "index-CvDFWqam.css": {
+      "url": "https://naveengumaste.me/assets/index-CvDFWqam.css",
+      "snapshot": ".preview/brand-research/index-CvDFWqam.css",
+      "sha256": "d50af575529ea4b6e46a9401c777985e98ff5c1ecbfa98dd1e1dd29b1e72dad0"
+    },
+    "index-7d49I2E_.js": {
+      "url": "https://naveengumaste.me/assets/index-7d49I2E_.js",
+      "snapshot": ".preview/brand-research/index-7d49I2E_.js",
+      "sha256": "a1f5604e06c4ec777ec43494ac2293f3ed17f36089d1b1144d633c5fbc0626af"
+    },
+    "page-BDpdS3uH.js": {
+      "url": "https://naveengumaste.me/assets/page-BDpdS3uH.js",
+      "snapshot": ".preview/brand-research/page-BDpdS3uH.js",
+      "sha256": "e17c99afe2d22020420b593ccba32bdb7d107c43ddf0fe7f4edf0b994fbfc55e"
+    },
+    "projectCard-B1OdTKeB.js": {
+      "url": "https://naveengumaste.me/assets/projectCard-B1OdTKeB.js",
+      "snapshot": ".preview/brand-research/projectCard-B1OdTKeB.js",
+      "sha256": "e912dad79bbe9af47ef2d984549f95cdfda1af4ad0d21aab367a40d9554c8795"
+    },
+    "projectDetail-sMssjnjf.js": {
+      "url": "https://naveengumaste.me/assets/projectDetail-sMssjnjf.js",
+      "snapshot": ".preview/brand-research/projectDetail-sMssjnjf.js",
+      "sha256": "56558c688deb23535d31dc5b8bae6bd6656b9cbcd5130d918d895335d2dd09ae"
+    }
+  },
+  "palette": {
+    "background": {
+      "css": "#0b0b0b",
+      "hex": "#0b0b0b"
+    },
+    "foreground": {
+      "css": "oklch(98.5% 0 0)",
+      "hex": "#fafafa"
+    },
+    "card": {
+      "css": "oklch(20.5% 0 0)",
+      "hex": "#171717"
+    },
+    "primary": {
+      "css": "oklch(92.2% 0 0)",
+      "hex": "#e5e5e5"
+    },
+    "secondary_muted_accent": {
+      "css": "oklch(26.9% 0 0)",
+      "hex": "#262626"
+    },
+    "muted_foreground": {
+      "css": "oklch(70.8% 0 0)",
+      "hex": "#a1a1a1"
+    },
+    "border": {
+      "css": "oklch(100% 0 0 / .22)",
+      "equivalent_css": "rgb(255 255 255 / 22%)"
+    },
+    "separator_border": {
+      "css": "oklch(100% 0 0 / .25)",
+      "equivalent_css": "rgb(255 255 255 / 25%)"
+    },
+    "separator_stripe": {
+      "css": "oklch(100% 0 0 / .18)",
+      "equivalent_css": "rgb(255 255 255 / 18%)"
+    }
+  },
+  "palette_notes": "Hex values for achromatic OKLCH tokens are rounded to 8-bit sRGB. Original CSS values are authoritative. The global accent token is neutral, not purple. Per-project glowColor values below are explicit site data, not a global accent. Minimal mode has different theme tokens.",
+  "typography": {
+    "body": {
+      "family": "Hanken Grotesk",
+      "weight": 400,
+      "evidence": "--font-sans and body font-family; --font-offbit and --font-pixelify also alias Hanken Grotesk."
+    },
+    "hero_title": {
+      "family": "Hanken Grotesk",
+      "weight": 700,
+      "evidence": "Creative homepage h1: text-2xl sm:text-3xl font-bold tracking-tight."
+    },
+    "project_titles": {
+      "family": "Hanken Grotesk",
+      "weight": 600,
+      "evidence": "projectCard title classes use font-semibold tracking-tight."
+    },
+    "section_headings": {
+      "family": "Hanken Grotesk",
+      "weights": [
+        400,
+        600
+      ],
+      "evidence": "Homepage GitHub Activity uses font-normal font-offbit; Setup and Projects use font-semibold."
+    },
+    "explicit_monospace": {
+      "family": "Space Mono",
+      "website_normal_weights": [
+        400,
+        700
+      ],
+      "prepared_weight": 400,
+      "evidence": "--font-space and font-space class used in navigation and UI labels; not the global font-mono stack."
+    },
+    "system_monospace": {
+      "stack": "ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,Liberation Mono,Courier New,monospace",
+      "evidence": "--font-mono; homepage role/location/details use font-mono.",
+      "redistributable_exact_font_available": false,
+      "note": "OS-dependent, not one downloadable font. Space Mono is a verified site font for deterministic card labels, not a claim that the role uses Space Mono."
+    },
+    "other_specific_roles": {
+      "Departure Mono": "400, small animated numeric counter",
+      "Allura": "decorative signature",
+      "Caveat": "decorative handwritten text",
+      "Noto Sans Devanagari": "700, Devanagari text"
+    },
+    "other_loaded_families_not_assumed_primary": [
+      "Pixelify Sans",
+      "Schibsted Grotesk",
+      "Inter",
+      "Geist Sans"
+    ]
+  },
+  "font_assets": [
+    {
+      "path": "fonts/hanken-grotesk-latin-variable.woff",
+      "family": "Hanken Grotesk",
+      "version": "3.013",
+      "style": "normal",
+      "css_font_weight": "100 900",
+      "source_url": "https://raw.githubusercontent.com/marcologous/hanken-grotesk/1ab416e82130b2d3ddb7710abf7ceabf07156a13/fonts/variable/HankenGrotesk%5Bwght%5D.ttf",
+      "source_sha256": "813b3f8fa0965405669a89b38e51bbefd95eef6b8e20d1cb2d8c10cce062662f",
+      "license": "SIL OFL 1.1",
+      "license_path": "fonts/OFL-Hanken-Grotesk.txt",
+      "license_source_url": "https://raw.githubusercontent.com/marcologous/hanken-grotesk/1ab416e82130b2d3ddb7710abf7ceabf07156a13/OFL.txt",
+      "bytes": 32584,
+      "sha256": "e8a3f8ac5dd182748a53e0084cca64be193b65d2bfeb665b9a72a07149188f2c",
+      "missing_requested": [
+        "0x2197"
+      ],
+      "source_glyph_comparison": {
+        "compared_codepoints": 107,
+        "differences": [],
+        "allowed_coordinate_rounding_delta": 0,
+        "maximum_coordinate_delta": 0
+      },
+      "license_metadata_retained": true
+    },
+    {
+      "path": "fonts/space-mono-latin-400.woff",
+      "family": "Space Mono",
+      "version": "1.003; ttfautohint (v1.8.4.7-5d5b)",
+      "style": "normal",
+      "css_font_weight": "400",
+      "source_url": "https://raw.githubusercontent.com/googlefonts/spacemono/329858c2c4dbd3476f972a4ae00624b018cf4b81/fonts/ttf/SpaceMono-Regular.ttf",
+      "source_sha256": "95837e182baeeada83368f7748db28357f0a1b75c6b84ff7065b5edf933c8e18",
+      "license": "SIL OFL 1.1",
+      "license_path": "fonts/OFL-Space-Mono.txt",
+      "license_source_url": "https://raw.githubusercontent.com/googlefonts/spacemono/329858c2c4dbd3476f972a4ae00624b018cf4b81/OFL.txt",
+      "bytes": 17460,
+      "sha256": "e1ba39509cb3910f59877e8158bc0cd8621a082b0e90966c9ff49daf248d1a40",
+      "missing_requested": [],
+      "source_glyph_comparison": {
+        "compared_codepoints": 108,
+        "differences": [],
+        "allowed_coordinate_rounding_delta": 0,
+        "maximum_coordinate_delta": 0
+      },
+      "license_metadata_retained": true
+    }
+  ],
+  "website_font_source_urls": {
+    "hanken_400": "https://naveengumaste.me/assets/hanken-grotesk-latin-400-normal-BG6hkEXj.woff2",
+    "hanken_600": "https://naveengumaste.me/assets/hanken-grotesk-latin-600-normal-CIXX6EOa.woff2",
+    "hanken_700": "https://naveengumaste.me/assets/hanken-grotesk-latin-700-normal-CeQ8H3UY.woff2",
+    "space_mono_400": "https://naveengumaste.me/assets/SpaceMono-Regular-Rg4St2Dn.woff2",
+    "space_mono_700": "https://naveengumaste.me/assets/SpaceMono-Bold-mWgeinG7.woff2",
+    "departure_mono_400": "https://naveengumaste.me/assets/DepartureMono-Regular-DTx3WqI-.woff2"
+  },
+  "unicode_selection": "U+0020-007E,U+00A0,U+00B7,U+00D7,U+2013-2014,U+2018-2019,U+201C-201D,U+2022,U+2026,U+2192,U+2197",
+  "coverage_notes": "108 requested codepoints: printable ASCII plus NBSP, middle dot, multiplication, en/em dashes, curly quotes, bullet, ellipsis, right and northeast arrows. Space Mono covers all 108. Hanken covers 107: U+2197 is absent upstream. Use Hanken Grotesk, Space Mono, sans-serif in that order or render the arrow as an SVG path. The deployed Space Mono file lacks both arrows, so the full same-version upstream font was used.",
+  "total_woff_bytes": 50044,
+  "validation": {
+    "report": ".preview/brand-research/font-validation.json",
+    "script": ".preview/brand-research/validate_fonts.py",
+    "passed": true,
+    "website_font_comparisons": {
+      "hanken_400": {
+        "compared_codepoints": 106,
+        "differences": [],
+        "allowed_coordinate_rounding_delta": 1,
+        "maximum_coordinate_delta": 0
+      },
+      "hanken_700": {
+        "compared_codepoints": 106,
+        "differences": [
+          "0x6a"
+        ],
+        "allowed_coordinate_rounding_delta": 1,
+        "maximum_coordinate_delta": 1
+      },
+      "space_mono_400": {
+        "compared_codepoints": 106,
+        "differences": [],
+        "allowed_coordinate_rounding_delta": 0,
+        "maximum_coordinate_delta": 0
+      }
+    },
+    "notes": "Subset glyph geometry and advances equal their upstream sources. Website Hanken 400 and Space Mono 400 match checked glyphs exactly; Hanken variable 700 differs from static site 700 only by a one-font-unit rounding difference at the right edge of the j dot. Metrics match."
+  },
+  "projects": [
+    {
+      "slug": "keyskills",
+      "name": "KeySkills",
+      "accent_hex": "#ff6b00",
+      "live_url": "https://keyskills.ngxlabs.tech",
+      "portfolio_url": "https://naveengumaste.me/projects/keyskills",
+      "repository_url": "https://github.com/NaveenGumaste/keyskills",
+      "repository_verified": true,
+      "repository_evidence": "Live KeySkills HTML codeRepository, sameAs and visible GitHub links; linked repository HTTP 200; public GitHub API homepage matches.",
+      "portfolio_featured": true
+    },
+    {
+      "slug": "unitools",
+      "name": "UniTools",
+      "accent_hex": "#3b82f6",
+      "live_url": "https://one-unitools.vercel.app/",
+      "portfolio_url": "https://naveengumaste.me/projects/unitools",
+      "repository_url": null,
+      "repository_verified": false,
+      "repository_evidence": "Not exposed by checked portfolio data/detail chunk or live project HTML/application chunks; not present in public NaveenGumaste repository listing. Do not infer a repository URL from the project name.",
+      "portfolio_featured": true
+    },
+    {
+      "slug": "kairocal",
+      "name": "KairoCal",
+      "accent_hex": "#f59e0b",
+      "live_url": "https://kairocal.naveengumaste.me/",
+      "portfolio_url": "https://naveengumaste.me/projects/kairocal",
+      "repository_url": null,
+      "repository_verified": false,
+      "repository_evidence": "Not exposed by checked portfolio data/detail chunk or live project HTML/application chunks; not present in public NaveenGumaste repository listing. Do not infer a repository URL from the project name.",
+      "portfolio_featured": true
+    },
+    {
+      "slug": "caravan",
+      "name": "Caravan",
+      "accent_hex": "#10b981",
+      "live_url": "https://caravan.naveengumaste.me/",
+      "portfolio_url": "https://naveengumaste.me/projects/caravan",
+      "repository_url": null,
+      "repository_verified": false,
+      "repository_evidence": "Not exposed by checked portfolio data/detail chunk or live project HTML/application chunks; not present in public NaveenGumaste repository listing. Do not infer a repository URL from the project name.",
+      "portfolio_featured": false
+    },
+    {
+      "slug": "cryptoz",
+      "name": "CryptoZ",
+      "accent_hex": "#8b5cf6",
+      "live_url": "https://cryptoz1.vercel.app/",
+      "portfolio_url": "https://naveengumaste.me/projects/cryptoz",
+      "repository_url": null,
+      "repository_verified": false,
+      "repository_evidence": "Not exposed by checked portfolio data/detail chunk or live project HTML/application chunks; not present in public NaveenGumaste repository listing. Do not infer a repository URL from the project name.",
+      "portfolio_featured": false
+    },
+    {
+      "slug": "orange-finance",
+      "name": "Orange Finance",
+      "accent_hex": "#ef4444",
+      "live_url": "https://orangefinance.vercel.app/",
+      "portfolio_url": "https://naveengumaste.me/projects/orange-finance",
+      "repository_url": null,
+      "repository_verified": false,
+      "repository_evidence": "Not exposed by checked portfolio data/detail chunk or live project HTML/application chunks; not present in public NaveenGumaste repository listing. Do not infer a repository URL from the project name.",
+      "portfolio_featured": false
+    }
+  ]
+}

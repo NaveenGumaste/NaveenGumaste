@@ -1,99 +1,53 @@
-<!-- <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=NaveenGumaste.NaveenGumaste" /> -->
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=3000&color=A467F7&lines=Hi+There!+👋;+I'm+Naveen+Gumaste!;" />
-</h1>
-
-<h3 align="center" style="font-family:'Roboto Mono';color:#00ffd2">A Electronics and Communication Engineer</h3>
-
-<br/>
-
-<div align="center" style="font-family:'JetBrains Mono';color:MediumSlateBlue" >
- 
- ⚒️ working on **Frontend Web Development**
- 
- </div>
- 
-<div align="center">
-  <a href="mailto:ngumaste03@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-  </a>
-
-  <a href="https://linkedin.com/in/naveenkumar-gumaste" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-
-  <a href="https://x.com/Z0D404" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>
-
-  <a href="https://naveengumaste.me" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-6A5ACD?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
-</div>
-
- <hr/>
-
-<div align="center" style="font-family:'JetBrains Mono'; color:#38BDAE">
-     <h3>⚙️ Languages-Frameworks-Tools </h3>
-</div>
-<br>
-
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=javascript,react,tailwind,nextjs,ts,bun,pnpm" /><br><br>
-    <img src="https://skillicons.dev/icons?i=mongodb,postman,vite,webpack,git,docker,vercel,netlify" />
-</div>
-
-<br/>
-<hr/>
-<h2 align="center" style="font-family:'JetBrains Mono';color:#38BDAE" >⚡ Stats </h2>
-<p align="center">
-  <img width="420" src="https://nirzak-streak-stats.vercel.app/?user=NaveenGumaste&theme=catppuccin_mocha&hide_border=true" alt="GitHub Streak" />
-  &nbsp;
-  <img width="420" src="https://github-readme-stats.vercel.app/api?username=NaveenGumaste&theme=catppuccin_mocha&hide_border=true&show_icons=true&locale=en" alt="GitHub Stats" />
-</p>
-
-<!-- <div align="center" style="display: flex; justify-content: center; align-items: center; height: 100%;">
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NaveenGumaste&theme=catppuccin_mocha&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
-
-</div> -->
-
-<!-- <hr>
-
-<h2 align="center" style="font-family:'JetBrains Mono';color:#38BDAE" >💯Top Contributed Repo </h2>
-<div align="center" style="display: flex; justify-content: center; align-items: center; height: 100%;">
-  <!-- <img src="https://github-contributor-stats.vercel.app/api?username=NaveenGumaste&limit=5&theme=catppuccin_mocha&combine_all_yearly_contributions=true" /> -->
-
-</div>
-
- <hr/>
-
-<h2 align="center" style="font-family:'JetBrains Mono';color:#38BDAE" >🎵My Spotify Playlist </h2>
-<br>
-<p align="center">
- <a href="https://open.spotify.com/user/31posslgzomhnuu3qvgbzqgfx4vq">
-  <img src="https://spotify-recently-played.jeffreyca.workers.dev/svg?user=31posslgzomhnuu3qvgbzqgfx4vq&amp;theme=catppuccin&amp;count=4&amp;width=600&amp;radius=19&amp;unique=1" alt="Spotify recently played" width="600" />
+<a href="https://naveengumaste.me">
+  <img src="./cards/hero.svg" width="100%" alt="Naveen Gumaste — DevOps Engineer and Web Developer in Karnataka, India. Thoughtful interfaces. Reliable workflows." />
 </a>
+
+I build fast, accessible web applications and reliable, cloud-ready workflows. My background is in **Electronics & Communication Engineering**; my work spans **frontend development, DevOps, and developer tools**.
+
+<p><img src="./cards/graph.svg" width="100%" alt="My rolling 365-day contribution graph, in the graphite and silver colours of my portfolio." /></p>
+
+<p><img src="./cards/activity.svg" width="100%" alt="Monthly GitHub contributions, total contributions, active days, longest streak, and busiest day. Refreshed daily from my public profile." /></p>
+
+<sub>Public profile contributions, not just commits. The longest streak is measured within the displayed window; boundary months are partial. [Live calendar](https://github.com/NaveenGumaste?tab=overview) · [Source data](./data/contributions.json)</sub>
+
+<p>
+<a href="https://naveengumaste.me/projects"><img src="./cards/build.svg" width="32.5%" alt="Build — explore my projects" /></a>
+<a href="https://naveengumaste.me/blog"><img src="./cards/learn.svg" width="32.5%" alt="Learn — read my engineering field notes" /></a>
+<a href="https://linkedin.com/in/naveenkumar-gumaste"><img src="./cards/connect.svg" width="32.5%" alt="Connect — find me on LinkedIn" /></a>
 </p>
-<hr/>
 
-<h2 align="center" style="font-family:'JetBrains Mono';color:#38BDAE" >📑 Latest Blog Posts </h2>
+### Featured repositories
 
-<div align="left" style="font-family:'JetBrains Mono';color:#38BDAE">
+From better coding-agent workflows to full-stack applications and infrastructure as code. Each card opens its public repository.
 
-- [HTML5 Semantic Elements Learn Now!](https://medium.com/@Cynos/html5-semantic-elements-learn-now-9a3547f1b779)
-- [Only Vs Code Extension You Need 2025](https://medium.com/@Cynos/only-vs-code-extension-you-need-2022-a8225d1e6354)
-</div>
-<hr/>
+<p><a href="https://github.com/NaveenGumaste/keyskills"><img src="./cards/project-keyskills.svg" width="100%" alt="KeySkills — portable skills for AI coding agents: SEO, design, git, cleanup, DevOps, and testing" /></a></p>
 
-<h2 align="center" style="font-family:'JetBrains Mono';color:#38BDAE" >✍️ Quote of the Day</h2>
-<br>
-<div align="center" style="display: flex; justify-content: center; align-items: center; height: 100%;">
+<p><a href="https://github.com/NaveenGumaste/kairodash-DevOps"><img src="./cards/project-kairodash-devops.svg" width="100%" alt="kairo Operations — a Next.js and Appwrite market intelligence dashboard with watchlists, portfolios, alerts, and sync workflows" /></a></p>
 
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-</div>
+<p><a href="https://github.com/NaveenGumaste/terraform-docker-03"><img src="./cards/project-terraform-docker.svg" width="100%" alt="Daymark / Terraform — a Bun and JavaScript todo app with a Terraform-managed local Docker container" /></a></p>
 
-<h3 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&color=A467F7&lines=Thanks+for+visiting!+✌️">
-</h3>
-<br/>
+<p><a href="https://github.com/NaveenGumaste/cicd-project-01"><img src="./cards/project-bun-cicd.svg" width="100%" alt="Bun / CI-CD — a web app with GitHub Actions and Jenkins pipelines for testing, builds, deployment, and health checks" /></a></p>
+
+Also on my portfolio: [UniTools — private browser utilities](https://naveengumaste.me/projects/unitools), [KairoCal — brokerage calculations](https://naveengumaste.me/projects/kairocal), and [Caravan — cassette-era music](https://naveengumaste.me/projects/caravan).
+
+### Tools I reach for
+
+<img src="./cards/stack.svg" width="100%" alt="Interfaces: JavaScript, TypeScript, React, Next.js, Tailwind CSS. Infrastructure: Linux, Docker, AWS, Terraform, Ansible. Workflow: Git, GitHub Actions, Vite, Bun, pnpm." />
+
+### Field notes
+
+I write about web development, DevOps, and the tools behind the work.
+
+- [Engineering blog — DevOps, CI/CD, and AI agent workflows](https://naveengumaste.me/blog)
+- [HTML5 semantic elements](https://medium.com/@Cynos/html5-semantic-elements-learn-now-9a3547f1b779)
+- [The VS Code extension you need](https://medium.com/@Cynos/only-vs-code-extension-you-need-2022-a8225d1e6354)
+
+### Away from the terminal
+
+Usually with a playlist on. [Find my Spotify corner →](https://open.spotify.com/user/31posslgzomhnuu3qvgbzqgfx4vq)
+
+---
+
+[Portfolio](https://naveengumaste.me) · [LinkedIn](https://linkedin.com/in/naveenkumar-gumaste) · [Email](mailto:ngumaste03@gmail.com) · [X / Twitter](https://x.com/Z0D404)
+
+<sub>Self-contained SVGs with embedded Hanken Grotesk and Space Mono, matching my website. Reduced-motion friendly. [How this README is built](./CARDS.md).</sub>

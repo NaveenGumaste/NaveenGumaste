@@ -1,0 +1,94 @@
+name: Refresh profile cards
+
+on:
+  schedule:
+    - cron: '23 4 * * *'
+  workflow_dispatch:
+  push:
+    branches:
+      - '**'
+    paths:
+      - 'scripts/fetch_contributions.py'
+      - 'scripts/render_readme_cards.py'
+      - 'tests/**'
+      - 'fonts/**'
+      - 'README.md'
+      - 'CARDS.md'
+      - '.github/workflows/refresh-cards.yml'
+  pull_request:
+    paths:
+      - 'scripts/fetch_contributions.py'
+      - 'scripts/render_readme_cards.py'
+      - 'tests/**'
+      - 'fonts/**'
+      - 'README.md'
+      - 'CARDS.md'
+      - '.github/workflows/refresh-cards.yml'
+
+permissions:
+  contents: read
+
+concurrency:
+  group: profile-cards-${{ github.event.pull_request.number || github.ref }}
+  cancel-in-progress: ${{ github.event_name == 'pull_request' }}
+
+defaults:
+  run:
+    shell: bash
+
+jobs:
+  validate:
+    name: Validate cards offline
+    if: github.event_name == 'pull_request'
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    permissions:
+      contents: read
+    steps:
+      - name: Check out pull request
+        uses: actions/checkout@v4
+        with:
+          persist-credentials: false
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - name: Run offline tests
+        run: python3 -m unittest discover -s tests -v
+      - name: Render outside tracked cards
+        run: python3 scripts/render_readme_cards.py --output "${{ runner.temp }}/profile-cards"
+
+  refresh:
+    name: Refresh public calendar and cards
+    if: github.event_name != 'pull_request' && startsWith(github.ref, 'refs/heads/')
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    permissions:
+      contents: write
+    steps:
+      - name: Check out current branch
+        uses: actions/checkout@v4
+        with:
+          ref: ${{ github.ref }}
+          persist-credentials: true
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - name: Run offline tests
+        run: python3 -m unittest discover -s tests -v
+      - name: Fetch public contribution calendar
+        run: python3 scripts/fetch_contributions.py
+      - name: Render cards after successful collection
+        run: python3 scripts/render_readme_cards.py
+      - name: Commit changed generated files only
+        run: |
+          git add -- cards/ data/contributions.json
+          if git --no-pager diff --cached --quiet -- cards/ data/contributions.json; then
+            echo "Calendar and cards are unchanged."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          GIT_EDITOR=true git commit -m "chore: refresh profile cards"
+          git push origin HEAD
